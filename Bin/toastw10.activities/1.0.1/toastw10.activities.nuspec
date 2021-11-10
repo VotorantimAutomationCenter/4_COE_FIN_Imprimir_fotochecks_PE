@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>ToastW10.Activities</id>
+    <version>1.0.1</version>
+    <title>ToastW10</title>
+    <authors>Vtralex</authors>
+    <owners>Vtralex</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Easy toast bridge.
+- Basic toast
+- Progress bar</description>
+    <dependencies>
+      <dependency id="Microsoft.Toolkit.Uwp.Notifications" version="6.0.0" />
+      <dependency id="Microsoft.WindowsAPICodePack-Core" version="1.1.0.2" />
+      <dependency id="Microsoft.WindowsAPICodePack-Shell" version="1.1.0" />
+    </dependencies>
+  </metadata>
+</package>
